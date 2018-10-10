@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538490572673.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1074039864",
+    "id" : "B17E4BF8",
+    "lastKnownWriteTime" : 1538581574,
+    "last_content_update" : 1538581574,
+    "path" : "~/myWork/docs/pkgdown.yml",
+    "project_path" : "docs/pkgdown.yml",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

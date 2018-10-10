@@ -1,0 +1,19 @@
+title: Priscilla's work
+
+navbar:
+  title: "sparklyr"
+  type: inverse
+  left:
+    - text: "Home"
+      href: "index.html"
+
+    - text: "DIV II"
+      href: "articles/DIV II.html"
+
+    - text: "Courses"
+      menu:
+      - text: "DIV I"
+        href: "articles/DIV I Courses.html"
+      - text: "DIV II"
+        href: "articles/DIV II Courses.html"
+

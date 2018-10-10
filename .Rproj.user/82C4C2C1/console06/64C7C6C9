@@ -1,0 +1,9 @@
+bash: “export: command not found
+]0;~/myWork[?1034heduroam121-103:myWork xixila$ [Keduroam121-103:myWork xixila$ ls
+DESCRIPTION	PDFs		_pkgdown.yaml	man		vignettes
+NAMESPACE	R		docs		myWork.Rproj
+]0;~/myWorkeduroam121-103:myWork xixila$ git add .
+fatal: Not a git repository (or any of the parent directories): .git
+]0;~/myWorkeduroam121-103:myWork xixila$ git init
+Initialized empty Git repository in /Users/xixila/myWork/.git/
+]0;~/myWorkeduroam121-103:myWork xixila$ git ad [Kd .

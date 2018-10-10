@@ -1,0 +1,22 @@
+---
+title: 'Ind study Statistics'
+author: "Prisclla"
+date: "2018/10/2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Textbook
+1. [Introductory Statistics with Randomization and Simulation First Edition](/Users/xixila/myWork/PDFs/isrs1.pdf)
+2. [Learning statistics with R: A tutorial for psychology students and other beginners](/Users/xixila/myWork/PDFs/Navarro2014.pdf)
+3. Understanding Advanced Statistical Methods
+
+### Worksheets and Exercises
+
+### Meetings/Progress/Upcoming work
+
+**10/3 Office Hour**
+
